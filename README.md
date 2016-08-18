@@ -5,7 +5,7 @@ Convert from Chinese PinYin string to T9 string.
 ```
   myhost$ c2py.rb -i within-chinese-words.txt -o within-pinyin-strings.txt
 ```
-For the input text file containing:
+within-chinese-words.txt:
 
 ```
 中国上海
@@ -13,7 +13,7 @@ For the input text file containing:
 黄浦江
 ```
 
-Then output the text file like this:
+within-pinyin-strings.txt:
 
 ```
 zhong-guo-shang-hai
